@@ -1,0 +1,6 @@
+name: AntiCommandTab
+version: '${version}'
+main: me.justdrven.anticommandtab.AntiCommandTab
+authors: [JustDrven]
+website: https://github.com/JustDrven
+softdepend: [ ProtocolLib ]
